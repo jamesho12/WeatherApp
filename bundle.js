@@ -22669,7 +22669,7 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var API_KEY = '6983f689347f4da24f8da502bda7c75f';
-	var ROOT_URL = 'http://api.openweathermap.org/data/2.5/forecast?appid=' + API_KEY;
+	var ROOT_URL = 'https://api.openweathermap.org/data/2.5/forecast?appid=' + API_KEY;
 
 	var FETCH_WEATHER = exports.FETCH_WEATHER = 'FETCH_WEATHER';
 
